@@ -98,7 +98,7 @@ Add on an existing or a new page, two picoC blocks:
 - First one named "Subscribe"
 - Second one named "Publish
 
-The output O13 from the "Subscribe" program shall be linked to a Front Detector, then linked to your subscriptions (see below).
+The output O13 from the "Subscribe" program shall be linked to a Edge Detection, then linked to your subscriptions (see below).
 
 In the "Subscribe" block, copy and paste the content from the file subscriber.c.
 In the "Publish" block, copy and paste the content from the file publish.c.
